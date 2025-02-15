@@ -14,7 +14,7 @@ export const LINKS = {
 
 export const SOCIAL_LINKS = [
   {
-    href: "https://www.instagram.com/abhay_anand_jha/",
+    href: "https://www.instagram.com/iabhayftw/",
     icon: FaInstagram,
   },
 
